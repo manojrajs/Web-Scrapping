@@ -1,2 +1,1 @@
-# Web-Scrapping-Python
-Flipkart & IMDB
+# Web-Scrapping-Python Flipkart & IMDB
